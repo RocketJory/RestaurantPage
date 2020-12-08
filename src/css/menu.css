@@ -1,0 +1,36 @@
+#menu-page {
+    margin-bottom: 2rem;
+}
+
+#menu-page h2 {
+    text-align: center;
+}
+
+hr {
+    color: var(--col3);
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1);;
+}
+
+.menu-item-title {
+    line-height: 2rem;
+    font-weight: bolder;
+}
+
+.menu-item-desc {
+    padding: 0.5rem;
+}
+
+.menu-item-price {
+    line-height: 2rem;
+    font-weight: bolder;
+}
+
+.menu-item-img img {
+    width: 100%;
+    height: 150px;
+    vertical-align: middle;
+
+    object-fit: cover;
+
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1);;   
+}

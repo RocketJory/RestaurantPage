@@ -1,0 +1,1 @@
+export const contactElem = document.getElementById('contact-page');
